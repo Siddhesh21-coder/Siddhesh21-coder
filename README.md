@@ -2,7 +2,7 @@
 
 I am Siddhesh Kushare, learning Machine Learning and Cloud computing.
 I have some project experience in React and React Native.
-(https://github-readme-stats.vercel.app/api?username=Siddhesh21-coder)](https://github.com/Siddhesh21-coder/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhesh21-coder)](https://github.com/Siddhesh21-coder/github-readme-stats)
 <!--
 **Siddhesh21-coder/Siddhesh21-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
